@@ -1,13 +1,13 @@
 Hi 👋 My name is PRAKASH SINGH
 
 
-web developer
+Full Stack Web Developer🖥️
 
 
 
 I've been coding for more than 1 years, learning different stacks having a taste towards both software and hardware. I have powered myself with  knowledge.
 
-🌍  I'm based in SATNA(MadhayPradesh)
+🌍  I'm based in Satna (MadhayPradesh)
 
 ✉️  You can contact me at prakashsingh.mhr123@gmail.com
 
@@ -18,5 +18,6 @@ I've been coding for more than 1 years, learning different stacks having a taste
 🤝  I'm open to collaborating on Projects .
 
 
-Skills
-Core-java, Css,Html,React,C,C++,
+Skills : 
+
+Ad-java, Css,Html,React,C,C++,
