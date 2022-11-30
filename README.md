@@ -7,7 +7,7 @@ web developer
 
 I've been coding for more than 1 years, learning different stacks having a taste towards both software and hardware. I have powered myself with  knowledge.
 
-🌍  I'm based in MadhayPradesh
+🌍  I'm based in SATNA(MadhayPradesh)
 
 ✉️  You can contact me at prakashsingh.mhr123@gmail.com
 
