@@ -1,5 +1,10 @@
 Hi 👋 My name is PRAKASH SINGH
+
+
 web developer
+
+
+
 I've been coding for more than 1 years, learning different stacks having a taste towards both software and hardware. I have powered myself with  knowledge.
 
 🌍  I'm based in MadhayPradesh
